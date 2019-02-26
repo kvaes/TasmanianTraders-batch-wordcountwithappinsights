@@ -1,0 +1,11 @@
+﻿{
+  "poolNodeCountDedicated": 0,
+  "poolNodeCountLowprio": 4,
+  "topWordCount": 50,
+  "DocumentsRootPath": "documents",
+  "shouldDeleteJob": true,
+  "shouldDeletePool": false,
+  "shouldDeleteContainer": true,
+  "poolId": "TopNWordsPool",
+  "jobId": "TopNWordsJob"
+}
