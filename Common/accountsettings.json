@@ -2,7 +2,11 @@
   "batchAccountName": "",
   "batchAccountKey": "",
   "batchServiceUrl": "",
-  "storageAccountName": "",
-  "storageAccountKey": "",
+  "storageAccountName1": "",
+  "storageAccountKey1": "",
+  "storageAccountName2": "",
+  "storageAccountKey2": "",
+  "storageAccountName3": "",
+  "storageAccountKey3": "",
   "storageServiceUrl": "core.windows.net"
 }

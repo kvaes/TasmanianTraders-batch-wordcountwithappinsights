@@ -61,6 +61,7 @@ namespace Microsoft.Azure.Batch.Samples.TopNWordsSample
                 .Build()
                 .Get<Settings>();
             AccountSettings accountSettings = SampleHelpers.LoadAccountSettings();
+            accountSettings.Randomize();
 
             CloudStorageAccount cloudStorageAccount = new CloudStorageAccount(
                 new StorageCredentials(
